@@ -10,7 +10,7 @@ __pycache__/
 *.sql
 
 # Environment settings
-#.env
+.env
 
 # Static files
 /staticfiles/
