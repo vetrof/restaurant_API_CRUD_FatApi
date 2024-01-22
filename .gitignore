@@ -10,7 +10,7 @@ __pycache__/
 *.sql
 
 # Environment settings
-.env
+#.env
 
 # Static files
 /staticfiles/
@@ -30,3 +30,4 @@ __pycache__/
 venv/
 
 .DS_Store
+.gitignore
